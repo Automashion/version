@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/version",
+    "name": "automashion/version",
 
     "description": "Take control over your Laravel app version",
 
@@ -19,13 +19,13 @@
 
     "require": {
         "php": "^7.0",
-        "laravel/framework": "5.5.*",
+        "laravel/framework": "5.6.*",
         "pragmarx/yaml": "^0.1",
-        "symfony/process": "^3.3"
+        "symfony/process": "^4.0"
     },
 
     "require-dev": {
-        "phpunit/phpunit": "^6.4",
+        "phpunit/phpunit": "^7.0",
         "orchestra/testbench": "^3.5"
     },
 
